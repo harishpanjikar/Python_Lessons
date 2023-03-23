@@ -5,4 +5,6 @@ Q2. player = "Rashford". what will be output of the following code explain!
     player[::-1] , player[1:5:3], player[1:8:-2], player[-1:-7:2] , player[-5:-1:2], player[6:2:-1]
 Q3. When we use replace method to replace word/char in string so do we get a new string or the changes are made in the original string itself? explain
     with an example
+Q4. what is membership operator
+Q5. what is Object reusabilty. How it behaves for different different data type
 
